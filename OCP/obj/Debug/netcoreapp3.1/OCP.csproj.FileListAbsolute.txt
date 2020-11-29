@@ -1,0 +1,13 @@
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.csprojAssemblyReference.cache
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.CoreCompileInputs.cache
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfoInputs.cache
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfo.cs
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.exe
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.deps.json
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.json
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.dev.json
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.dll
+E:\Project\SOLID\OCP\bin\Debug\netcoreapp3.1\OCP.pdb
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.dll
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.pdb
+E:\Project\SOLID\OCP\obj\Debug\netcoreapp3.1\OCP.genruntimeconfig.cache

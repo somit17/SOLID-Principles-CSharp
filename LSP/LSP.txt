@@ -1,0 +1,11 @@
+Liskov Substitution Principle which is also known as LSP. 
+
+Definition : Substitutability is a principle in object-oriented programming and it states that, in a computer program, if S is a Subtype of T, then objects of type T may be replaced with objects of type S 
+
+1. Which means, Derived types must be completely substitutable for their base types
+
+2. More formally, the Liskov substitution principle (LSP) is a particular definition of a subtyping relation, called (strong) behavioral subtyping
+
+3. This Principle is introduced by Barbara Liskov in 1987 during her conference address on Data abstraction and hierarchy
+
+4. This principle is just an extension of the Open Close Principle
