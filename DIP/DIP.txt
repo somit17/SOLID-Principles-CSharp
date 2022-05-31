@@ -10,3 +10,6 @@ Usage Intention : Before understanding the intention of usage, let’s try to un
 
 During the process of the application design, lower-level components are designed to be consumed by higher-level components which enable increasingly complex systems to be built.
  In this Process of Composition, higher-level components depend directly upon lower-level components to achieve some task.  
+ 
+ 
+ https://www.youtube.com/watch?v=fvPPlY31glk
